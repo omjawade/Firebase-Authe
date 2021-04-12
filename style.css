@@ -23,7 +23,7 @@ body{
     }
     .container .box {
 
-      background: #fff;
+      background: #333;
       
       padding: 20px;
       
@@ -34,7 +34,7 @@ body{
       place-items: center; 
         
         text-align:center; 
-        color:#333;
+        color:#fff;
       
       transition: 0.5s;
       }
